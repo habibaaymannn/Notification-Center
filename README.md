@@ -29,10 +29,10 @@ It follows the **Strategy Design Pattern** and adheres to **SOLID principles** f
 
 ## Design Highlights
 
-- ✅ **Strategy Pattern** to handle multiple notification channels.
-- ✅ **Dependency Injection** for decoupling and flexibility.
-- ✅ **Open/Closed Principle**: Easily extendable for new notification types.
-- ✅ **Single Responsibility**: Each class does one thing only.
+- **Strategy Pattern** to handle multiple notification channels.
+- **Dependency Injection** for decoupling and flexibility.
+- **Open/Closed Principle**: Easily extendable for new notification types.
+- **Single Responsibility**: Each class does one thing only.
 
 ---
 
